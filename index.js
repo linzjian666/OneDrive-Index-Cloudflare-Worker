@@ -3,14 +3,14 @@ const config = {
      * You can use this tool http://heymind.github.io/tools/microsoft-graph-api-auth
      * to get following params: client_id, client_secret, refresh_token & redirect_uri.
      */
-    "refresh_token": "",
-    "client_id": "",
-    "client_secret": "",
+    "refresh_token": "OAQABAAAAAAAm-06blBE1TpVMil8KPQ411kT5LMh4eZKNKcPXcPvfJEF3KmD91Y2zL8UZH3AxiAqKT2M-u1MuwOyugY1TO9eosVr79noY2ZTLgkYTpEKRZpBexvB74pzLiax9I85Odp_69tJNOYokgLPUm7MHJ11LlvmvS2kq4pzDUcPzrib2PrupUg_lGGwuM-aOUFbTUS7PlLAOV4K4bWW_1nTI1rp6HobFWa42nAISArYDGZ6dsz9q_5KxuKhM6qi3q6zIKLqM6DE89_Hgaaf2WwkyAOsCOrOB5DnTE6kNRrrR1XfatrR3UJYB6Rfvun-EGbyKyewxHy1G8bcANIx-7gWoz0IJ3z_EKrODsXzkimHgcULYAkNQ7NFkvqAKvBWbFAuiisJu3ZJi3phZYdhtXqQpywt-1MqBqygkcKwFesUAEIq4_NbIudafDIAbHi5-yFBaU4-DQIktuWzSkwdoXX3TeeEGi2RNZerdEId0QQ8x6gKSQJFng1lpSVtLUlj-ttTgYAVQHcSCt9LO5hdF7CL94ivcnNxI_qHLh_C5w7zVGL0VceCmglnF87bcsPn6u3a9e08EI6aUsrol_rZLS8FqSyan825fqJA67xr6ihJWaIXP1Jcr4xZAsRkhAy9bVQ1_0Igru7wlUffNtPKeLhN28Wy7gCDftA5Shpu-PdPBJGmfzesKFgntkhLSRczm8x00eW41OqXecGyrBPoE8_97OlENgFoY_cUdIMxVWc0glArDrxTpBOJ63j2LEcTrlY_-CwqCkt6MPTVZFS4wdOjVpEy4IKAC2n3qc0KciYbjrsoCbtYu9R1FEXE5IlYlet2NNlhTcHYHDbNcTf-1U6vrP2fm-vBi0YywqgetjuCE-6rWPofxhFhutMPYMSWNz7pSZij4WQLIIhLuy60nGgYjtrWJt1cwFY771kDUKdhqcPXZaYDSRAvhP41CzrP17efySqiBRYwfrc4IePzEb3MD1MoMyrsDfJL0NBnaSUaHqWp7flrVEha0ZPaImfdo4LnYlSfFCUq9QWOwDFNjrXUAiqXqIAA",
+    "client_id": "e02b772b-8a93-4708-a7cb-0fb2be34fafd",
+    "client_secret": "5t8u7-Qa3fJtAq._M0DYW4j7ANK~cH6jv9",
     "redirect_uri": "https://heymind.github.io/tools/microsoft-graph-api-auth",
     /**
      * The base path for indexing, all files and subfolders are public by this tool. For example `/Share`.
      */
-    base: "/Share",
+    base: "/",
     /**
      * Feature Caching
      * Enable Cloudflare cache for path pattern listed below.
